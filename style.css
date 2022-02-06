@@ -1,0 +1,23 @@
+body{
+    background-color: whitesmoke;
+    }
+#principal{
+    background-image: url("Images/principal.jpeg");
+}
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap:10px;
+    background-color: transparent;
+}
+div{
+    background-color: antiquewhite;
+    text-align: center;
+    
+}
+#tittle{
+background-color: black;
+color: white;
+text-align: center;
+font-family: "ubuntu";
+}
