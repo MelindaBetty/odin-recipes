@@ -1,5 +1,5 @@
 body{
-    background-color: whitesmoke;
+    background-color:whitesmoke;
     }
 #principal{
     background-image: url("Images/principal.jpeg");
@@ -11,13 +11,29 @@ body{
     background-color: transparent;
 }
 div{
-    background-color: antiquewhite;
+    background-color: whitesmoke;
     text-align: center;
     
 }
-#tittle{
-background-color: black;
-color: white;
-text-align: center;
-font-family: "ubuntu";
+a{
+       background-color: #802434;
+       color: white;
+       font-weight: bold;
+    
+}
+ul,ol{
+    text-align: left;
+}
+
+h1, h2{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: "ubuntu";
+}
+h3{
+    background-color: #802434;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
 }
